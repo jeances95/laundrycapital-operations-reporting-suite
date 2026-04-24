@@ -14,7 +14,3 @@ Star schema with fact_sales and dimension tables
 
 ## 🛠️ Tools Used
 Python, SQL Server, Power BI
-
-## 🔄 Data Pipeline
-
-![Pipeline](docs/pipeline.png)

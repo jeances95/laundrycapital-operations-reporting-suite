@@ -21,7 +21,8 @@ Python, SQL Server, Power BI
 
 ## 📈 Dashboard
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/dashboard1.png)
+![Dashboard](docs/dashboard2.png)
 
 ## 💡 Key Insights
 

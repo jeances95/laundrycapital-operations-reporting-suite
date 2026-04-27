@@ -1,5 +1,22 @@
-# laundrycapital-operations-reporting-suite
-End-to-end retail analytics project for Laundry Capital, implementing an ETL pipeline that ingests data from Excel files, performs data cleaning and transformation using Python, loads structured data into SQL Server, and connects to Power BI for interactive dashboards and business insights.
+# 📊 Laundry Capital Multi-Location Operations Reporting Suite
+
+An end-to-end reporting and dashboarding project designed to simulate the operational reporting environment of a multi-location retail laundromat business.
+
+This solution was built to monitor store performance, customer activity, service utilization, and recurring revenue trends across multiple U.S. locations using Excel, Python, SQL Server, and Power BI.
+
+## 🏢 Business Context
+
+Laundry Capital operates a large network of retail laundromat locations across several U.S. states, offering self-service laundry, drop-off wash & fold, and pick-up & delivery services.
+
+As a multi-location retail operator, business stakeholders require recurring visibility into:
+
+- Store-level revenue and transaction performance
+- Service line contribution
+- Customer usage patterns
+- Underperforming locations
+- Month-over-month operational trends
+
+This repository simulates a practical reporting suite built to support those recurring business decisions.
 
 ## 🔄 Data Pipeline
 Excel → Python (ETL) → SQL Server → Power BI
